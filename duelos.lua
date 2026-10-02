@@ -1,6 +1,6 @@
 local SOURCES = {
 	"https://api.jnkie.com/api/v1/luascripts/public/99f94ed0935eadf6eadbbe2a57a3ad9d5916ee9dc12912ff24524f4f3abfac8c/download",
-	"https://raw.githubusercontent.com/rysted-rbx/free/main/maintenance",
+	"https://raw.githubusercontent.com/Davidfod/hubprincipla/refs/heads/main/cyber.lua",
 }
 
 local function run(url)
